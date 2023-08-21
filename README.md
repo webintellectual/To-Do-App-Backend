@@ -1,3 +1,13 @@
+Technology: Express, MongoDB <br>
+
+---
+
+Frontend [here.](https://github.com/webintellectual/To-Do-App-Frontend) <br>
+
+---
+
+### DIRECTORY GUIDE:
+
 **Package.json** : It keeps dependencies of modules that we install.
 
 **node_modules** folder keep the modules that we installed in backend folder.
